@@ -73,7 +73,7 @@
 * First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone 
+apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/brhot/tele.git
 ```
 
 ```
